@@ -4,25 +4,25 @@
       <h1 class="font-bold text-2xl">Jhonata Canevare</h1>
 
     <ul class="flex gap-8 justify-items-end">
-      <li class="text-xl ">
+      <li class="text-xl transition-colors duration-300 hover:text-cyan-600">
         <router-link  to="/">
           Inicio
         </router-link>
       </li>
 
-      <li class="text-xl">
+      <li class="text-xl transition-colors duration-300 hover:text-cyan-600">
         <router-link to="/sobreMim">
           Sobre Mim
         </router-link>
       </li>
 
-      <li class="text-xl ">
+      <li class="text-xl transition-colors duration-300 hover:text-cyan-600">
         <router-link to="/projeto">
           Projetos
         </router-link>
       </li>
 
-      <li class="text-xl">
+      <li class="text-xl transition-colors duration-300 hover:text-cyan-600">
         <router-link to="/contato">
           Contato
         </router-link>
