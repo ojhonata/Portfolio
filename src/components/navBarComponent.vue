@@ -1,0 +1,29 @@
+<template>
+  <nav class="bg-gray-900 text-gray-100 py-3.5 p-30 shadow ">
+    <div class="flex items-center justify-between w-full ">
+      <h1 class="font-bold text-2xl">Jhonata Canevare</h1>
+
+    <ul class="flex gap-8 justify-items-end">
+      <li class="text-xl ">
+        <router-link  to="/">
+          Inicio
+        </router-link>
+      </li>
+
+      <li class="text-xl">
+        <router-link to="/projeto">
+          Projetos
+        </router-link>
+      </li>
+
+      <li class="text-xl">
+        <router-link to="/contato">
+          Contato
+        </router-link>
+      </li>
+    </ul>
+
+
+    </div>
+  </nav>
+</template>
