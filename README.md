@@ -1,35 +1,29 @@
-# portifolio
+# Portfólio
 
-This template should help get you started developing with Vue 3 in Vite.
+Portfólio pessoal desenvolvido com Vue 3 e Vite para apresentar meus projetos e habilidades como desenvolvedor.
 
-## Recommended IDE Setup
+## Tecnologias Utilizadas
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Vue.js 3  
+- Vite  
+- JavaScript  
+- HTML5  
+- CSS3  
 
-## Customize configuration
+## Como Executar o Projeto
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+```bash
+# Clone o repositório
+git clone https://github.com/ojhonata/Portifolio.git
 
-## Project Setup
+# Acesse a pasta do projeto
+cd Portifolio
 
-```sh
+# Instale as dependências
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# Inicie o servidor de desenvolvimento
 npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
+# (Opcional) Gere a build de produção
 npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
