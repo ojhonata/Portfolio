@@ -22,5 +22,5 @@ cd Portifolio
 # Instale as dependências
 npm install
 
-# Inicie o servidor de desenvolvimento
+# Inicie o servidor
 npm run dev
