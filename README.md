@@ -4,11 +4,11 @@ Portfólio pessoal desenvolvido com Vue 3 e Vite para apresentar meus projetos e
 
 ## Tecnologias Utilizadas
 
-- Vue.js 3  
+- Vue.js
 - Vite  
 - JavaScript  
-- HTML5  
-- CSS3  
+- HTML
+- CSS 
 
 ## Como Executar o Projeto
 
@@ -24,6 +24,3 @@ npm install
 
 # Inicie o servidor de desenvolvimento
 npm run dev
-
-# (Opcional) Gere a build de produção
-npm run build
