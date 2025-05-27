@@ -8,6 +8,7 @@ Portfólio pessoal desenvolvido com Vue 3 e Vite para apresentar meus projetos e
 - Vite  
 - JavaScript  
 - HTML
+- Tailwind
 
 ## Como Executar o Projeto
 
