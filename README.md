@@ -14,10 +14,10 @@ Portfólio pessoal desenvolvido com Vue 3 e Vite para apresentar meus projetos e
 
 ```bash
 # Clone o repositório
-git clone https://github.com/ojhonata/Portifolio.git
+git clone https://github.com/ojhonata/Portfolio.git
 
 # Acesse a pasta do projeto
-cd Portifolio
+cd Portfolio
 
 # Instale as dependências
 npm install
